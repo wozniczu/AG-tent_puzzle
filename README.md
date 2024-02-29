@@ -15,5 +15,5 @@ row/column
 
 ## Results
 
-![tent](./images/tent.jpg)
-![tent2](./images/tent2.jpg)
+![tent](./images/tent.png)
+![tent2](./images/tent2.png)
